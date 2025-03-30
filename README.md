@@ -1,3 +1,3 @@
 # gittraining
-
-This is my first practice file
+ 
+I am changing this file message.
